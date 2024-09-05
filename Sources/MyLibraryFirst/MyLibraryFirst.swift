@@ -4,6 +4,8 @@
 public struct MyLibraryFirst{
     var text = "HI Dear"
 
+    public init(){}
+
     public func HelloToYou() -> String{
         return "LOL.."
     }
