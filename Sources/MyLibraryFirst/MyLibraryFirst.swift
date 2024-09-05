@@ -11,4 +11,8 @@ public struct MyLibraryFirst{
     public func HelloToYouTO() -> String{
         return "LOL.."
     }
+
+    public func HelloToYouTOO() -> String{
+        return "LOL.."
+    }
 }
